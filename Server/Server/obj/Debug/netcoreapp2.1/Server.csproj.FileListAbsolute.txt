@@ -1,0 +1,44 @@
+C:\Users\Admin\Source\Repos\Server\Server\bin\Debug\netcoreapp2.1\Server.deps.json
+C:\Users\Admin\Source\Repos\Server\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.json
+C:\Users\Admin\Source\Repos\Server\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.dev.json
+C:\Users\Admin\Source\Repos\Server\Server\bin\Debug\netcoreapp2.1\Server.dll
+C:\Users\Admin\Source\Repos\Server\Server\bin\Debug\netcoreapp2.1\Server.pdb
+C:\Users\Admin\Source\Repos\Server\Server\obj\Debug\netcoreapp2.1\Server.csprojAssemblyReference.cache
+C:\Users\Admin\Source\Repos\Server\Server\obj\Debug\netcoreapp2.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\Server\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Repos\Server\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\Server\Server\obj\Debug\netcoreapp2.1\Server.dll
+C:\Users\Admin\Source\Repos\Server\Server\obj\Debug\netcoreapp2.1\Server.pdb
+D:\Users\Admin\Desktop\КСИС\Server\Server\bin\Debug\netcoreapp2.1\Server.deps.json
+D:\Users\Admin\Desktop\КСИС\Server\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.json
+D:\Users\Admin\Desktop\КСИС\Server\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.dev.json
+D:\Users\Admin\Desktop\КСИС\Server\Server\bin\Debug\netcoreapp2.1\Server.dll
+D:\Users\Admin\Desktop\КСИС\Server\Server\bin\Debug\netcoreapp2.1\Server.pdb
+D:\Users\Admin\Desktop\КСИС\Server\Server\obj\Debug\netcoreapp2.1\Server.csprojAssemblyReference.cache
+D:\Users\Admin\Desktop\КСИС\Server\Server\obj\Debug\netcoreapp2.1\Server.csproj.CoreCompileInputs.cache
+D:\Users\Admin\Desktop\КСИС\Server\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfoInputs.cache
+D:\Users\Admin\Desktop\КСИС\Server\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfo.cs
+D:\Users\Admin\Desktop\КСИС\Server\Server\obj\Debug\netcoreapp2.1\Server.dll
+D:\Users\Admin\Desktop\КСИС\Server\Server\obj\Debug\netcoreapp2.1\Server.pdb
+D:\LearningBNTU\КСИС\Server\Server\bin\Debug\netcoreapp2.1\Server.deps.json
+D:\LearningBNTU\КСИС\Server\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.json
+D:\LearningBNTU\КСИС\Server\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.dev.json
+D:\LearningBNTU\КСИС\Server\Server\bin\Debug\netcoreapp2.1\Server.dll
+D:\LearningBNTU\КСИС\Server\Server\bin\Debug\netcoreapp2.1\Server.pdb
+D:\LearningBNTU\КСИС\Server\Server\obj\Debug\netcoreapp2.1\Server.csprojAssemblyReference.cache
+D:\LearningBNTU\КСИС\Server\Server\obj\Debug\netcoreapp2.1\Server.csproj.CoreCompileInputs.cache
+D:\LearningBNTU\КСИС\Server\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfoInputs.cache
+D:\LearningBNTU\КСИС\Server\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfo.cs
+D:\LearningBNTU\КСИС\Server\Server\obj\Debug\netcoreapp2.1\Server.dll
+D:\LearningBNTU\КСИС\Server\Server\obj\Debug\netcoreapp2.1\Server.pdb
+D:\LearningBNTU\Компьютерные сети\КСИС\Server\Server\bin\Debug\netcoreapp2.1\Server.deps.json
+D:\LearningBNTU\Компьютерные сети\КСИС\Server\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.json
+D:\LearningBNTU\Компьютерные сети\КСИС\Server\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.dev.json
+D:\LearningBNTU\Компьютерные сети\КСИС\Server\Server\bin\Debug\netcoreapp2.1\Server.dll
+D:\LearningBNTU\Компьютерные сети\КСИС\Server\Server\bin\Debug\netcoreapp2.1\Server.pdb
+D:\LearningBNTU\Компьютерные сети\КСИС\Server\Server\obj\Debug\netcoreapp2.1\Server.csprojAssemblyReference.cache
+D:\LearningBNTU\Компьютерные сети\КСИС\Server\Server\obj\Debug\netcoreapp2.1\Server.csproj.CoreCompileInputs.cache
+D:\LearningBNTU\Компьютерные сети\КСИС\Server\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfoInputs.cache
+D:\LearningBNTU\Компьютерные сети\КСИС\Server\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfo.cs
+D:\LearningBNTU\Компьютерные сети\КСИС\Server\Server\obj\Debug\netcoreapp2.1\Server.dll
+D:\LearningBNTU\Компьютерные сети\КСИС\Server\Server\obj\Debug\netcoreapp2.1\Server.pdb
